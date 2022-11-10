@@ -10,7 +10,7 @@ const Home: NextPage = () => {
   return (
     <>
       <Box width="100%" height="100%" display="flex" flexDirection="row">
-        <StyleComponent />
+        {/* <StyleComponent /> */}
         <Section />
         <DivisionOne />
         <DivisionTwo />

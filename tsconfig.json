@@ -15,9 +15,9 @@
     "jsx": "preserve",
     "incremental": true, 
     "noImplicitAny": true,
-    "noImplicitThis": true,, "src/pages/layouts/breakpoints.js"
+    "noImplicitThis": true, 
     "strictNullChecks": true,
   },
-  "include": ["next-env.d.ts", "**/*.ts", "**/*.tsx"],
+  "include": ["next-env.d.ts", "**/*.ts", "**/*.tsx", "src/pages/layouts/breakpoints.js"],
   "exclude": ["node_modules"]
 }

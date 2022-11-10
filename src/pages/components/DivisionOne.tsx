@@ -15,8 +15,8 @@ export default function ThirdBox() {
     <DivisionOne>
       <Box
         sx={{
-          width: 300,
-          height: 300,
+          width: 600,
+          height: 600,
           backgroundColor: "primary.dark",
           "&:hover": {
             backgroundColor: "primary.main",
