@@ -14,6 +14,7 @@ const Home: NextPage = () => {
         <Section />
         <DivisionOne />
         <DivisionTwo />
+        <StyleComponent />
       </Box>
       <Box width="100%" height="100%" display="flex" flexDirection="row">
         <Demo />

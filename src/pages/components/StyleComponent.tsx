@@ -11,7 +11,7 @@ const MyComponent = styled("div")({
   maxHeight: "100%",
 });
 
-export default function BasicUsage() {
+export default function StyleComponent() {
   return (
     <MyComponent>
       <Box
